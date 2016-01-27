@@ -1,0 +1,6 @@
+﻿<NavigationWindow x:Class="FoodBankManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="650" Width="725" Source="LoginPage.xaml" MinHeight="650" MinWidth="725" MaxHeight="700" MaxWidth="800">
+
+</NavigationWindow>
