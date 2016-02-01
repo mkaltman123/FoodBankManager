@@ -66,7 +66,7 @@
     </Page.Resources>
 
 
-    
+
     <Grid>
 
         <Grid.RowDefinitions>
@@ -85,11 +85,11 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Image Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="3" Margin="10,10,50,50" Source="Resources/Reach-Out-Lakota.png" />
+        <Image x:Name="image" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="3" Margin="10,10,50,50" Source="pack://siteoforigin:,,,/Resources/Reach-Out-Lakota.png"  />
 
-        
-        
-        <Button x:Name="bttnAdd_Items" Content="Add Items" Grid.Column="2" Grid.Row="2" Margin="-10,10,20,10" FontSize="26" Cursor="Hand"/>
+
+
+        <Button x:Name="bttnAdd_Items" Content="Add Items" Grid.Column="2" Grid.Row="2" Margin="-10,10,20,10" FontSize="26" Cursor="Hand" />
         <Button x:Name="bttnRemove_Items" Content="Withdraw Items" Grid.Column="3" Grid.Row="2" Margin="-10,10,20,10" FontSize="22" Click="bttnRemove_Items_Click" Cursor="Hand"/>
         <Button x:Name="bttnStats" Grid.Column="2" Grid.Row="3" Margin="-10,10,20,10" FontSize="22" Cursor="Hand">
             <TextBlock TextWrapping="Wrap" TextAlignment="Center">Inventory Reports</TextBlock>
@@ -118,11 +118,11 @@
             <TextBlock HorizontalAlignment="Center" FontSize="20" Foreground="Black">*4</TextBlock>
         </Border>
         <StackPanel x:Name="helpLabels" Visibility="Hidden" Orientation="Vertical" Grid.Row="4" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="4" VerticalAlignment="Bottom" HorizontalAlignment="Left">
-            <Label FontStyle="Italic" FontSize="12">* Click on the Button to go to the "Add Items" page to add items to the Food Bank Mangager Database.</Label>
-            <Label FontStyle="Italic" FontSize="12">** Click on the Button to go to the "Remove Items" page to remove items from the Food Bank Manager Database.</Label>
+            <Label FontStyle="Italic" FontSize="12">* Click on the Button to go to the "Add Items" page to add items to the Food Bank Mangager Inventory.</Label>
+            <Label FontStyle="Italic" FontSize="12">** Click on the Button to go to the "Remove Items" page to remove items from the Food Bank Inventory.</Label>
             <Label FontStyle="Italic" FontSize="12">*** Click on the Button to go to the "Data" page, which displays the total number of each item.</Label>
-            <Label FontStyle="Italic" FontSize="12">**** Click on the Button to go to the "Storage Map" page which gives a layout of the storage containers.</Label>
+            <Label FontStyle="Italic" FontSize="12">**** Click on the Button to go to the "Storage Map" page which gives a layout of the storage bins.</Label>
         </StackPanel>
-        
+
     </Grid>
 </Page>
