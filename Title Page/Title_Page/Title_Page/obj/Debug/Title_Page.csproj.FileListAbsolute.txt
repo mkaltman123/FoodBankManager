@@ -1,0 +1,16 @@
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\bin\Debug\Title_Page.exe.config
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\bin\Debug\Title_Page.exe
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\bin\Debug\Title_Page.pdb
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Title_Page.csprojResolveAssemblyReference.cache
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\MainWindow.g.cs
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\App.g.cs
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Title_Page_MarkupCompile.cache
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Title_Page_MarkupCompile.lref
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\MainWindow.baml
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Title_Page.g.resources
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Title_Page.Properties.Resources.resources
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Title_Page.csproj.GenerateResource.Cache
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Title_Page.exe
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Title_Page.pdb
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Password.g.cs
+M:\Food Bank Manager Design\Title Page\Title_Page\Title_Page\obj\Debug\Password.baml

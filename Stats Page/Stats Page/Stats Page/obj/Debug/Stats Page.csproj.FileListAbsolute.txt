@@ -1,0 +1,17 @@
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\bin\Debug\Stats Page.exe.config
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\bin\Debug\Stats Page.exe
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\bin\Debug\Stats Page.pdb
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page.csprojResolveAssemblyReference.cache
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\MainWindow.g.cs
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\App.g.cs
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page_MarkupCompile.cache
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page_MarkupCompile.lref
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\MainWindow.baml
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page.g.resources
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\Stats_Page.Properties.Resources.resources
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page.csproj.GenerateResource.Cache
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page.exe
+M:\Food Bank Manager Design\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page.pdb
+M:\Food Bank Manager\Stats Page\Stats Page\Stats Page\bin\Debug\Stats Page.exe.config
+M:\Food Bank Manager\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page.exe
+M:\Food Bank Manager\Stats Page\Stats Page\Stats Page\obj\Debug\Stats Page.pdb
