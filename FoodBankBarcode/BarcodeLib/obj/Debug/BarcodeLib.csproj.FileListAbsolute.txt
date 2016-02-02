@@ -1,0 +1,5 @@
+M:\FoodBankBarcode\BarcodeLib\bin\Debug\BarcodeLib.dll
+M:\FoodBankBarcode\BarcodeLib\bin\Debug\BarcodeLib.pdb
+M:\FoodBankBarcode\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+M:\FoodBankBarcode\BarcodeLib\obj\Debug\BarcodeLib.dll
+M:\FoodBankBarcode\BarcodeLib\obj\Debug\BarcodeLib.pdb

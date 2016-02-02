@@ -1,0 +1,16 @@
+M:\FoodBankBarcode\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe.manifest
+M:\FoodBankBarcode\BarcodeLibTest\bin\Debug\BarcodeLibTest.application
+M:\FoodBankBarcode\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe
+M:\FoodBankBarcode\BarcodeLibTest\bin\Debug\BarcodeLibTest.pdb
+M:\FoodBankBarcode\BarcodeLibTest\bin\Debug\BarcodeLib.dll
+M:\FoodBankBarcode\BarcodeLibTest\bin\Debug\BarcodeLib.pdb
+M:\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.csprojResolveAssemblyReference.cache
+M:\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.TestApp.resources
+M:\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+M:\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.GenerateResource.Cache
+M:\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe.manifest
+M:\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.application
+M:\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+M:\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb
+M:\FoodBankManagerGithub\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+M:\FoodBankManagerGithub\FoodBankBarcode\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb
